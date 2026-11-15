@@ -1,0 +1,20 @@
+{
+  "name": "wedson-resort-and-restaurant",
+  "version": "1.0.0",
+  "description": "Production-ready Full-Stack MERN Website for Wedson Resort & Restaurant",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "seed": "cd server && npm run seed",
+    "build": "cd client && npm run build"
+  },
+  "keywords": [
+    "wedson",
+    "resort",
+    "restaurant",
+    "mern",
+    "hospitality"
+  ],
+  "author": "Google Antigravity Autonomous Agent",
+  "license": "ISC"
+}
